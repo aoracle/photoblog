@@ -1,0 +1,2 @@
+
+from photoblog.settings import *
